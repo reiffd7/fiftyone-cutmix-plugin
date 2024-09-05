@@ -1,0 +1,8 @@
+name: "@reiffd7/cutmix_augmentation"
+description: Cutmix detections with canvases to generate more data
+version: 1.0.0
+fiftyone:
+  version: ">=0.22"
+url: https://github.com/reiffd7/fiftyone-cutmix-plugin
+operators:
+  - count_samples
